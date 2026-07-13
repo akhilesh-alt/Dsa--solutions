@@ -46,4 +46,8 @@
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1331-rank-transform-of-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
