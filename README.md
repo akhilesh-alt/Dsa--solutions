@@ -49,5 +49,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0461-hamming-distance) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
