@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Tree
 |  |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0338-counting-bits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
