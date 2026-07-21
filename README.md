@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -57,6 +58,7 @@
 | [0461-hamming-distance](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1009-complement-of-base-10-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
