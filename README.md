@@ -33,6 +33,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2032-two-out-of-three](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2032-two-out-of-three) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [1260-shift-2d-grid](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2032-two-out-of-three](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2032-two-out-of-three) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [0476-number-complement](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1486-xor-operation-in-an-array) |
+| [2032-two-out-of-three](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2032-two-out-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
