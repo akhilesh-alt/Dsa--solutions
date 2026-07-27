@@ -47,6 +47,7 @@
 ## Array
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -56,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -90,4 +92,12 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
