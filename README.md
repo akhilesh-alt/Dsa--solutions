@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0877-stone-game) |
 | [1051-height-checker](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0338-counting-bits) |
+| [0877-stone-game](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0877-stone-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -128,4 +131,8 @@
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
