@@ -47,6 +47,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2032-two-out-of-three](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2032-two-out-of-three) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2032-two-out-of-three) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3731-find-missing-elements](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
