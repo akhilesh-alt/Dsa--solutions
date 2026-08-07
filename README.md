@@ -69,6 +69,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0877-stone-game) |
 | [1051-height-checker](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1260-shift-2d-grid) |
@@ -144,4 +145,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0877-stone-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
