@@ -63,11 +63,13 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0561-array-partition](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0724-find-pivot-index) |
@@ -141,6 +143,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Game Theory
 |  |
@@ -149,6 +152,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
