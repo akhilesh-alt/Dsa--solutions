@@ -65,6 +65,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Array
 |  |
@@ -77,6 +78,7 @@
 | [1051-height-checker](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2032-two-out-of-three) |
