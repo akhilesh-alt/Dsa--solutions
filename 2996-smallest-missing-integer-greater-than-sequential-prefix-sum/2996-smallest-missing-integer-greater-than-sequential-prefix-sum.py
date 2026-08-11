@@ -1,14 +1,4 @@
 class Solution(object):
-    def bs(self,sl,l,h,x):
-        while l<=h:
-            m=(l+h)//2
-            if(sl[m]==x):
-                return True
-            elif(sl[m]>x):
-                h=m-1
-            else:
-                l=m+1
-        return False
     def missingInteger(self, nums):
         """
         :type nums: List[int]
@@ -20,7 +10,7 @@ class Solution(object):
             if(nums[i]!=nums[i-1]+1):
                 idx=i-1
                 break
-        sl=[]
+        """sl=[]
         for i in range(n):
             sl.append(nums[i])
         sl.sort()
@@ -29,8 +19,17 @@ class Solution(object):
             ps+=nums[i]
         while self.bs(sl,0,len(sl)-1,ps)==True:
             ps+=1
-        
+        return ps"""
+        ps=0
+        for i in range(idx+1):
+            ps+=nums[i]
+        s=set(nums)
+        while ps in s:
+            ps+=1
         return ps
+
+
+        
         
 
         
