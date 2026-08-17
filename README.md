@@ -78,6 +78,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0561-array-partition](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -112,6 +113,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0476-number-complement) |
@@ -187,4 +189,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
