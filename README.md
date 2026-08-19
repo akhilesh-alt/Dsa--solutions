@@ -79,6 +79,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0561-array-partition](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0561-array-partition) |
@@ -191,5 +192,6 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
