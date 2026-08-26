@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0877-stone-game) |
 | [1486-xor-operation-in-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1486-xor-operation-in-an-array) |
