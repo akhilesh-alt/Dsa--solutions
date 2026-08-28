@@ -66,6 +66,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -196,6 +197,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Stack
 |  |
@@ -221,4 +223,20 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
