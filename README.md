@@ -68,6 +68,7 @@
 | [0022-generate-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0696-count-binary-substrings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -204,6 +205,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0696-count-binary-substrings) |
 ## Stack
 |  |
 | ------- |
