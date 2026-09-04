@@ -5,7 +5,7 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        n=len(nums)
+        """n=len(nums)
         ans=-1
         for i in range(0,n):
             if(i==0):
@@ -16,6 +16,25 @@ class Solution(object):
             if((a-b)<=k):
                 ans=i
                 break
+        return ans"""
+        n=len(nums)
+        maxi=[0]*n
+        maxi[0]=nums[0]
+        for i in range(1,n):
+            maxi[i]=max(maxi[i-1],nums[i-1])
+        mini=[0]*n
+        mini[0]=min(nums)
+        for i in range(1,n):
+            mini[i]=min(nums[i:n])
+        ans=-1
+        for i in range(n):
+            a=maxi[i]
+            b=mini[i]
+            if((a-b)<=k):
+                ans=i
+                break
         return ans
+
+
         
         
