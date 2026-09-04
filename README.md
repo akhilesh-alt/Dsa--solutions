@@ -52,6 +52,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2032-two-out-of-three](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -74,6 +75,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -143,6 +145,7 @@
 | [0461-hamming-distance](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1009-complement-of-base-10-integer) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2032-two-out-of-three) |
@@ -252,4 +255,16 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
