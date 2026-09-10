@@ -184,6 +184,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
@@ -287,6 +288,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -294,4 +296,16 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
