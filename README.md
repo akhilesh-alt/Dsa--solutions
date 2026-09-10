@@ -220,6 +220,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0061-rotate-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -282,4 +283,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
