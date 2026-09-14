@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -324,4 +325,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
