@@ -24,6 +24,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -111,6 +113,7 @@
 | [0046-permutations](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0561-array-partition) |
@@ -223,6 +226,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0713-subarray-product-less-than-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -324,6 +328,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
