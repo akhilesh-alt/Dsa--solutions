@@ -25,6 +25,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -39,6 +41,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -48,6 +51,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
