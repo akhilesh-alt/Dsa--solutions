@@ -131,6 +131,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0735-asteroid-collision) |
 | [0821-shortest-distance-to-a-character](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0867-transpose-matrix](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0875-koko-eating-bananas) |
@@ -211,6 +212,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -274,6 +276,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
 | ------- |
