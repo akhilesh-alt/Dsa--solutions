@@ -24,6 +24,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0113-path-sum-ii) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0113-path-sum-ii) |
@@ -66,6 +68,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0496-next-greater-element-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0496-next-greater-element-i) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -124,6 +127,7 @@
 | [0046-permutations](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0496-next-greater-element-i) |
@@ -348,6 +352,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Merge Sort
 |  |
