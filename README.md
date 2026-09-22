@@ -30,6 +30,7 @@
 | [0113-path-sum-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
@@ -40,6 +41,7 @@
 | [0113-path-sum-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
@@ -61,6 +63,7 @@
 | [0113-path-sum-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Hash Table
@@ -248,6 +251,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0713-subarray-product-less-than-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0875-koko-eating-bananas) |
@@ -366,4 +370,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0836-rectangle-overlap) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
