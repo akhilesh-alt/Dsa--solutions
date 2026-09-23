@@ -28,6 +28,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -40,6 +41,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -63,6 +65,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -208,6 +211,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0022-generate-parentheses) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0877-stone-game) |
 ## Number Theory
@@ -383,4 +387,8 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
