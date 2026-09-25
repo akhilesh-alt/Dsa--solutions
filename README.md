@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -212,6 +213,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0338-counting-bits) |
@@ -282,6 +284,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0061-rotate-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -393,4 +396,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
