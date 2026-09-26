@@ -90,6 +90,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2032-two-out-of-three](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -165,6 +166,7 @@
 | [1260-shift-2d-grid](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -193,6 +195,7 @@
 | [0905-sort-array-by-parity](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -275,6 +278,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Game Theory
 |  |
@@ -302,6 +306,7 @@
 | [0845-longest-mountain-in-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0917-reverse-only-letters) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Stack
 |  |
