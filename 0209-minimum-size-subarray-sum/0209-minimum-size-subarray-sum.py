@@ -6,18 +6,6 @@ class Solution(object):
         :rtype: int
         """
         n=len(nums)
-        """ans=float('inf')
-        for i in range(n):
-            s=0
-            for j in range(i,n):
-                s+=nums[j]
-                if(s>=target):
-                    ans=min(ans,(j-i+1))
-                    break
-        if(ans==float('inf')):
-            return 0
-        return ans"""
-
         ans=float('inf')
         p1=0
         p2=0
@@ -32,6 +20,4 @@ class Solution(object):
         if(ans==float('inf')):
             return 0
         return ans
-
-
         
