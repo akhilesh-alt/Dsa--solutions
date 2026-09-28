@@ -115,6 +115,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0917-reverse-only-letters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -314,11 +315,13 @@
 | [0020-valid-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0735-asteroid-collision) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Backtracking
 |  |
 | ------- |
