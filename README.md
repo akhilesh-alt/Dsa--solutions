@@ -119,6 +119,7 @@
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -316,12 +317,14 @@
 | [0496-next-greater-element-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0735-asteroid-collision) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
 | ------- |
