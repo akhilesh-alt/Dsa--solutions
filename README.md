@@ -95,6 +95,7 @@
 | [2032-two-out-of-three](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -138,6 +139,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
@@ -178,6 +180,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -220,6 +223,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
@@ -422,4 +426,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
