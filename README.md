@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0877-stone-game) |
@@ -230,6 +231,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0338-counting-bits) |
 | [0845-longest-mountain-in-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0845-longest-mountain-in-array) |
@@ -430,4 +432,8 @@
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
