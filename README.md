@@ -102,6 +102,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3597-partition-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3597-partition-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3731-find-missing-elements) |
 ## String
@@ -128,6 +129,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3597-partition-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3597-partition-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [1260-shift-2d-grid](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3597-partition-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3597-partition-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -432,6 +435,7 @@
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3597-partition-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3597-partition-string) |
 ## Memoization
 |  |
 | ------- |
