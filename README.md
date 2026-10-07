@@ -178,6 +178,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1441-build-an-array-with-stack-operations](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -258,6 +259,7 @@
 | [0735-asteroid-collision](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1260-shift-2d-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3597-partition-string) |
@@ -332,6 +334,7 @@
 | [0735-asteroid-collision](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
