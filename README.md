@@ -126,6 +126,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -143,6 +144,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2932-maximum-strong-pair-xor-i) |
