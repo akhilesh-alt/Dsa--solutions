@@ -192,6 +192,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -369,6 +370,7 @@
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0845-longest-mountain-in-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## String Matching
 |  |
 | ------- |
