@@ -59,6 +59,7 @@
 | [0112-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
@@ -162,6 +163,7 @@
 | [0198-house-robber](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -250,6 +252,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0338-counting-bits) |
 | [0845-longest-mountain-in-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0877-stone-game) |
@@ -468,4 +471,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0300-longest-increasing-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
