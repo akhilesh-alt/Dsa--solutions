@@ -165,6 +165,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0518-coin-change-ii) |
 | [0561-array-partition](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -254,6 +255,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0338-counting-bits) |
+| [0518-coin-change-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0518-coin-change-ii) |
 | [0845-longest-mountain-in-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0877-stone-game) |
 ## Number Theory
@@ -475,8 +477,10 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
