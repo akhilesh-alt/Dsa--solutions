@@ -99,6 +99,7 @@
 | [2032-two-out-of-three](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -199,6 +200,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -483,4 +485,12 @@
 | ------- |
 | [0322-coin-change](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0518-coin-change-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
