@@ -129,6 +129,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -198,6 +199,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2032-two-out-of-three) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -349,6 +351,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Stack
 |  |
 | ------- |
