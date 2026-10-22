@@ -139,6 +139,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3597-partition-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3597-partition-string) |
+| [3794-reverse-string-prefix](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -362,6 +363,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
