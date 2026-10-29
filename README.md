@@ -92,6 +92,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1002-find-common-characters](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -128,6 +129,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0917-reverse-only-letters) |
+| [1002-find-common-characters](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -190,6 +192,7 @@
 | [0877-stone-game](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1207-unique-number-of-occurrences) |
