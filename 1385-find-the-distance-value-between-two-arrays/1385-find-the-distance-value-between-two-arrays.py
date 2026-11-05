@@ -26,6 +26,3 @@ class Solution(object):
             if self.bs(arr2,arr1[i],d)==0:
                 ans+=1
         return ans
-        
-
-        
