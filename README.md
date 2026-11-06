@@ -97,6 +97,7 @@
 | [0771-jewels-and-stones](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -200,6 +201,7 @@
 | [1002-find-common-characters](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1260-shift-2d-grid) |
@@ -249,6 +251,7 @@
 | [0905-sort-array-by-parity](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -331,6 +334,7 @@
 | [0561-array-partition](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0561-array-partition) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1051-height-checker](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -545,4 +549,12 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
