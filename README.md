@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0070-climbing-stairs) |
+| [0367-valid-perfect-square](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0836-rectangle-overlap) |
@@ -347,6 +348,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
