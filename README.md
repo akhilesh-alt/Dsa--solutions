@@ -57,6 +57,7 @@
 | [0437-path-sum-iii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1267-count-servers-that-communicate](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0322-coin-change](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1267-count-servers-that-communicate](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -306,6 +309,7 @@
 | ------- |
 | [0867-transpose-matrix](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
@@ -336,6 +340,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1051-height-checker](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1122-relative-sort-array) |
+| [1267-count-servers-that-communicate](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -559,4 +564,8 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1122-relative-sort-array) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
