@@ -16,6 +16,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -322,6 +323,7 @@
 | [0867-transpose-matrix](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1688-count-of-matches-in-tournament](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3597-partition-string) |
