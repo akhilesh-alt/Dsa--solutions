@@ -19,6 +19,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -232,6 +233,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
