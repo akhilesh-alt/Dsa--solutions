@@ -176,6 +176,7 @@
 | [2932-maximum-strong-pair-xor-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Array
 |  |
 | ------- |
@@ -243,6 +244,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3693-climbing-stairs-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3693-climbing-stairs-ii) |
@@ -387,6 +389,7 @@
 | [0724-find-pivot-index](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [3364-minimum-positive-sum-subarray](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
