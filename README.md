@@ -26,6 +26,7 @@
 | [2652-sum-multiples](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -255,6 +256,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3693-climbing-stairs-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
