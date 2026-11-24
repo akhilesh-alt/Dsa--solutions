@@ -26,6 +26,7 @@
 | [2652-sum-multiples](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -186,6 +187,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Array
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -325,6 +328,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
@@ -465,6 +469,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2367-number-of-arithmetic-triplets](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String Matching
 |  |
 | ------- |
