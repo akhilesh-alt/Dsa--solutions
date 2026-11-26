@@ -26,6 +26,7 @@
 | [2652-sum-multiples](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -349,6 +350,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3597-partition-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3597-partition-string) |
 ## Heap (Priority Queue)
