@@ -158,6 +158,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2000-reverse-prefix-of-word](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -378,6 +379,7 @@
 | [1122-relative-sort-array](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1122-relative-sort-array) |
 | [1267-count-servers-that-communicate](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2206-divide-array-into-equal-pairs](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akhilesh-alt/Dsa--solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
